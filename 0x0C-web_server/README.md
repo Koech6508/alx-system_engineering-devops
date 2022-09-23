@@ -1,1 +1,1 @@
-ALX web server project
+Web server
